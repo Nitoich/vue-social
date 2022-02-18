@@ -32,12 +32,12 @@
 </template>
 
 <script>
-export default {
-  name: 'Post',
-  props: {
-    image: String
+  export default {
+    name: 'Post',
+    props: {
+      image: String
+    }
   }
-}
 </script>
 
 <style scoped>
